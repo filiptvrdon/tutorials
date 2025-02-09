@@ -13,6 +13,36 @@ public class KeyBoardShortcuts {
   // ALT + 6    issues window
   // ALT + 0    git window
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   // CTRL + SHIFT + 1, 1    open current file in project tree
   //                          handy to help orient in the codebase
 

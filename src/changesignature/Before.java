@@ -9,6 +9,5 @@ public class Before {
 
   public static void printValues(String p3, String p2, String p1) {
     System.out.println(p1 + p2 + p3);
-
   }
 }
