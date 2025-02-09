@@ -5,7 +5,7 @@ import java.util.List;
 
 public class KeyBoardShortcuts {
 
-    private List<String> shortcuts = new ArrayList<>();
+    private final List<String> shortcuts = new ArrayList<>();
 
     public static void main(String[] args) {
         KeyBoardShortcuts keyBoardShortcuts = new KeyBoardShortcuts();
